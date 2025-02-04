@@ -40,7 +40,6 @@ body {
   cursor: pointer;
 }
 
-
 .blog-image {
   position: relative;
   width: 336px;
@@ -135,7 +134,7 @@ body {
     width: 82px;
     height: 29px;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 800;
     line-height: 150%;
   }
 
@@ -143,7 +142,7 @@ body {
     width: 143px;
     height: 21px;
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 150%;
   }
 
@@ -151,7 +150,7 @@ body {
     width: 336px;
     height: 36px;
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 800;
     line-height: 150%;
   }
 
@@ -159,7 +158,7 @@ body {
     width: 336px;
     height: 72px;
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 150%;
   }
 
@@ -171,7 +170,7 @@ body {
 
   .author-container {
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 800;
   }
 }
 
@@ -191,14 +190,14 @@ body {
     height: 26px;
     font-size: 12px;
     line-height: 150%;
-    font-weight: 700;
+    font-weight: 800;
   }
 
   .publish-date {
     width: 123px;
     height: 18px;
     font-size: 12px;
-    font-weight: 400;
+    font-weight: 500;
   }
 
   .title {
@@ -224,6 +223,6 @@ body {
 
   .author-container {
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 800;
   }
 }

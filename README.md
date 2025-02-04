@@ -32,8 +32,7 @@ My Solution
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://gokul221.github.io/blog-preview-card/)
 
 ## My process
 
@@ -49,6 +48,5 @@ Though I'm satisfied with the solution, there could be improvements on removing 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Gokul221](https://www.frontendmentor.io/profile/Gokul221)
 - LinkedIn - [Gokul Bhoi](https://www.linkedin.com/in/gokul-bhoi-3b8b39188)
