@@ -28,7 +28,7 @@ Expected Output
 
 
 My Solution
-![](./Screenshot%202025-02-05%20at%2000.04.59.png)
+![](./Screenshot%202025-02-05%20at%2001.08.46.png)
 
 ### Links
 
